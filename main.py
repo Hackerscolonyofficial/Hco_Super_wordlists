@@ -3,7 +3,7 @@ from files.URLS import whatsapp,instagram,youtube
 from files.Hadings import Heading, Sub_head
 from files.Writer import writer 
 
-
+system("clear")
 Heading()
 print('\n'*2)
 text = '''                This tool for create wordlists
