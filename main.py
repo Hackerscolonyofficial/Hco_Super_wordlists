@@ -20,6 +20,6 @@ input('Tap Enter:  ')
 whatsapp()
 
 system('clear')
-Sub_hading()
+Sub_head()
 print('\n'*2)
 system('python files/super_wordlists.py')
